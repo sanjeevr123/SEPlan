@@ -4,7 +4,7 @@
 
 > An independent student project, not an official NUS platform. This repository currently holds the concept landing page; the reviews and figures on it are mock data.
 
-**[View the live landing page](https://sanjeevr123.github.io/SEPBuddy/)**
+**[View the live landing page](https://seplan-gold.vercel.app/)**
 
 ![SEPlan landing page](docs/screenshot.png)
 
