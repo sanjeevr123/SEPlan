@@ -4,6 +4,10 @@
 
 > An independent student project, not an official NUS platform. This repository currently holds the concept landing page; the reviews and figures on it are mock data.
 
+**[View the live landing page](https://sanjeevr123.github.io/SEPBuddy/)**
+
+![SEPlan landing page](docs/screenshot.png)
+
 ## Problem
 
 SEP information is scattered across EduRec, partner-university websites, course-mapping records, Reddit, Telegram, spreadsheets and seniors. Students spend a lot of time cross-checking sources and still cannot tell whether a university is academically suitable, attainable, affordable and a good fit.
@@ -23,6 +27,12 @@ Official information, student experiences and AI-generated answers are shown sep
 | File | Description |
 |---|---|
 | `index.html` | Single-page landing site (plain HTML/CSS/JS, no build step; open it in a browser) |
+| `docs/screenshot.png` | Screenshot used in this README |
+
+## Roadmap
+
+1. **Phase 1, pre-application:** university discovery, module mappings, student reviews and senior experiences for a limited set of popular destinations, then the AI Research assistant on top of that data.
+2. **Phase 2, full SEP lifecycle:** housing, costs, visa and preparation guides, finding students going to the same destination, and travel planning.
 
 ## Status
 
